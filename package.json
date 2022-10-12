@@ -42,7 +42,7 @@
     "safe-publish-latest": "^1.1.4"
   },
   "peerDependencies": {
-    "react": "^0.14 || ^15.0.0 || ^16.0.0-alpha"
+    "react": "*"
   },
   "scripts": {
     "prepare": "npm run build",
